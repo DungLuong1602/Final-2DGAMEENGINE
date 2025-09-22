@@ -8,11 +8,14 @@ public class EnemyControl : MonoBehaviour
     public Transform rayOrigin;
     public bool facingRight = true;
     [HideInInspector] public State currentState;
+    public Transform shootPos;
 
     public float moveSpeed = 2f;
     public Vector2 leftPoint ;
     public Vector2 rightPoint ;
     public float patrolRange = 5f;  // Khoảng cách đi tuần
+
+    public int hp = 3;
 
 
 
@@ -50,5 +53,27 @@ public class EnemyControl : MonoBehaviour
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
+    }
+    public void Shoot()
+    {
+        GameObject bullet = ObjectPoolingEnemyBullet.Instance.GetEnemyBullet();
+        if (bullet != null)
+        {
+            bullet.GetComponent<EnemyBullet>().EnemtBulletMove(shootPos.position, facingRight);
+        }
+    }
+
+    public void TakeDamage(int dam)
+    {
+        hp -= dam;
+        if(hp <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        Destroy(gameObject);
     }
 }

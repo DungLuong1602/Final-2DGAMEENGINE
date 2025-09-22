@@ -21,15 +21,25 @@ public class Bullet : MonoBehaviour
             ObjectPoolingBullet.Instance.ReturnBullet(gameObject);
         }
     }
-    public void Move(Vector3 startPos,bool facingRight)
+    public void Move(Vector3 startPos, bool facingRight)
     {
-       transform.position = startPos;
-       direction = facingRight ? 1 : -1;
+        transform.position = startPos;
+        direction = facingRight ? 1 : -1;
         // flip asset bullet
-       Vector3 scale = transform.localScale;
-       scale.x = Mathf.Abs(scale.x) * direction;
-       transform.localScale = scale;
+        Vector3 scale = transform.localScale;
+        scale.x = Mathf.Abs(scale.x) * direction;
+        transform.localScale = scale;
 
-       gameObject.SetActive(true);
+        gameObject.SetActive(true);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Enemy"))
+        {
+            // Gọi trả về pool
+            ObjectPoolingBullet.Instance.ReturnBullet(gameObject);
+            collision.GetComponent<EnemyControl>().TakeDamage(1);
+        }
     }
 }

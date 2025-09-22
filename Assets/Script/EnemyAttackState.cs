@@ -16,6 +16,7 @@ public class EnemyAttackState : State
     {
         attackTimer = attackCountdown;
         _enemy.animator.Play("EnemyAttack");
+        _enemy.Shoot();
 //_enemy.audioSource.PlayOneShot(_enemy.attackSound);
     }
 
@@ -30,6 +31,7 @@ public class EnemyAttackState : State
         if (attackTimer <= 0f)
         {
             _enemy.animator.Play("EnemyAttack");
+            _enemy.Shoot();
             attackTimer = attackCountdown;
 
         }
