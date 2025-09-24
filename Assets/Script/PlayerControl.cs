@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
+    public GameManager GameManager;
     public float speed = 5f;
     public float jumpForce = 7f;
     public bool facingRight = true;
@@ -119,7 +120,8 @@ public class PlayerControl : MonoBehaviour
 
     private void Die()
     {
-               Destroy(gameObject);
+       Destroy(gameObject);
+       GameManager.GameOver();
     }
 
     public void Shoot()
