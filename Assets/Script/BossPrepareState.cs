@@ -16,7 +16,7 @@ public class BossPrepareState: State
     {
         timer = prepareDuration;
         Debug.Log("Boss is preparing to attack!");
-        boss.animator.Play("BossPrepare");
+        boss.animator.Play("Bossprepare");
         // Play pre-attack animation or effects here
     }
 

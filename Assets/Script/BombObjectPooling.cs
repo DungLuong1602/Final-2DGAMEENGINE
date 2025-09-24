@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
-
-public class BombObjectPooling: MonoBehaviour
+public class BombObjectPooling : MonoBehaviour
 {
     public static BombObjectPooling Instance;
     public GameObject bombPrefab; // Prefab của bom
@@ -50,4 +49,6 @@ public class BombObjectPooling: MonoBehaviour
         return null;
     }
 }
+
+
 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 64d3677fb7800ab44a10643703d31fea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3932380287230943307
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_0
+  - first:
+      213: 772991915760739935
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_1
+  - first:
+      213: 4647745048853591397
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_2
+  - first:
+      213: -6791281385383083570
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_3
+  - first:
+      213: -4744054688610284272
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_4
+  - first:
+      213: 7884252423544398237
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_5
+  - first:
+      213: -6684284946555081222
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_6
+  - first:
+      213: 6063862092552222591
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_7
+  - first:
+      213: 8904313077875195877
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_8
+  - first:
+      213: 9155931271013318599
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_9
+  - first:
+      213: 9039993216634397351
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_10
+  - first:
+      213: -2773205954832444002
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_11
+  - first:
+      213: 4566431674891484419
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_12
+  - first:
+      213: 5922895830305712131
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_13
+  - first:
+      213: -9023733891153307873
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_14
+  - first:
+      213: 3766053066126276404
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_15
+  - first:
+      213: 1570936901751175603
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_16
+  - first:
+      213: 6089831377831969706
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_17
+  - first:
+      213: 9176657849967632698
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_18
+  - first:
+      213: 5691745747074926941
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_19
+  - first:
+      213: -3951761121638269275
+    second: PC _ Computer - Wild Dogs - Enemies - Spike Trap_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfd9d1a6f06d69c0800000000000000
+      internalID: -3932380287230943307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56ea294d083aba00800000000000000
+      internalID: 772991915760739935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bf734f7b108040800000000000000
+      internalID: 4647745048853591397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c48ecf8580c1a0800000000000000
+      internalID: -6791281385383083570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d8b52556bb92eb0800000000000000
+      internalID: -4744054688610284272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9160e08ecd7a6d60800000000000000
+      internalID: 7884252423544398237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 22
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde7178146ac33a0800000000000000
+      internalID: -6684284946555081222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f773889027a272450800000000000000
+      internalID: 6063862092552222591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbd973199729b70800000000000000
+      internalID: 8904313077875195877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb3a41bf6601f70800000000000000
+      internalID: 9155931271013318599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a22f614fe1847d70800000000000000
+      internalID: 9039993216634397351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95d63d80e79389d0800000000000000
+      internalID: -2773205954832444002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbff01a693f5f30800000000000000
+      internalID: 4566431674891484419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a307706a523250800000000000000
+      internalID: 5922895830305712131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f175726f5d145c280800000000000000
+      internalID: -9023733891153307873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4373abb6f45b34430800000000000000
+      internalID: 3766053066126276404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b97e69f9c61dc510800000000000000
+      internalID: 1570936901751175603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c3b17f5d638450800000000000000
+      internalID: 6089831377831969706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ee9cc1b90a5f70800000000000000
+      internalID: 9176657849967632698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59cd3ec9942dfe40800000000000000
+      internalID: 5691745747074926941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Wild Dogs - Enemies - Spike Trap_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae3d8b72368829c0800000000000000
+      internalID: -3951761121638269275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_0: -3932380287230943307
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_1: 772991915760739935
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_10: 9039993216634397351
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_11: -2773205954832444002
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_12: 4566431674891484419
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_13: 5922895830305712131
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_14: -9023733891153307873
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_15: 3766053066126276404
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_16: 1570936901751175603
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_17: 6089831377831969706
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_18: 9176657849967632698
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_19: 5691745747074926941
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_2: 4647745048853591397
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_20: -3951761121638269275
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_3: -6791281385383083570
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_4: -4744054688610284272
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_5: 7884252423544398237
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_6: -6684284946555081222
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_7: 6063862092552222591
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_8: 8904313077875195877
+      PC _ Computer - Wild Dogs - Enemies - Spike Trap_9: 9155931271013318599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

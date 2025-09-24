@@ -2,7 +2,6 @@
 
 public class EnemyPatrolState : State
 {
-    private bool movingRight = true;
     private EnemyControl _enemy;
     public EnemyPatrolState(EnemyControl enemy) : base(null) 
     {

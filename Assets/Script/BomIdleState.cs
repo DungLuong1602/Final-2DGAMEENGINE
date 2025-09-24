@@ -21,7 +21,7 @@ public class BombIdleState: State
         timer -= Time.deltaTime;
         if (timer <= 0f)
         {
-            bom.ChangeState(new BombExplosionState(bom));
+            bom.ChangeState(new BomExplosionState(bom));
         }
     }
 }

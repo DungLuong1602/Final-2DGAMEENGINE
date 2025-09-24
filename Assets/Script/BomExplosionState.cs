@@ -13,7 +13,7 @@ public class BomExplosionState: State
     public override void Enter()
     {
         timer = bom.explosionDurations;
-        bom.animator.Play("BossBulletExplosion");
+        bom.animator.Play("BossBulletExplose");
         // Play explosion sound effect
         //AudioManager.Instance.PlaySound("ExplosionSound");
         // Enable the explosion collider to deal damage
